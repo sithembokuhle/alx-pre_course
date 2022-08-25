@@ -1,1 +1,3 @@
 #!/bin/bashn echo ALX
+#!/bin/bash
+ echo "ALX" 
